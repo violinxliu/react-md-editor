@@ -1,11 +1,11 @@
 {
-  "name": "react-md-editor",
+  "name": "bugly-react-md-editor",
   "version": "0.2.2",
   "description": "React Markdown Editor",
   "main": "dist/react-md-editor.min.js",
-  "homepage": "https://github.com/JedWatson/react-md-editor",
+  "homepage": "https://github.com/violinxliu/react-md-editor",
   "authors": [
-    "Jed Watson"
+    "violinxliu"
   ],
   "moduleType": [
     "amd",
