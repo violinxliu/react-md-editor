@@ -1,17 +1,17 @@
 {
-  "name": "react-md-editor",
+  "name": "bugly-react-md-editor",
   "version": "0.2.2",
   "description": "React Markdown Editor",
   "main": "lib/MDEditor.js",
-  "author": "Jed Watson",
-  "homepage": "https://github.com/JedWatson/react-md-editor",
+  "author": "violin",
+  "homepage": "https://github.com/violinxliu/react-md-editor",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-md-editor.git"
+    "url": "https://github.com/violinxliu/react-md-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/JedWatson/react-md-editor/issues"
+    "url": "https://github.com/violinxliu/react-md-editor/issues"
   },
   "dependencies": {
     "classnames": "^2.2.5",
