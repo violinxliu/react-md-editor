@@ -1,4 +1,4 @@
-var Editor = require('react-md-editor');
+var Editor = require('@tencent/react-md-editor');
 var marked = require('marked');
 var React = require('react');
 var ReactDOM = require('react-dom');
@@ -22,6 +22,7 @@ var App = React.createClass({
 				<div className="editor">
 					<Editor value={this.state.code} onChange={this.updateCode} />
 				</div>
+				
 				<div className="preview" dangerouslySetInnerHTML={{__html: preview}} />
 			</div>
 		);

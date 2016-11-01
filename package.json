@@ -1,5 +1,5 @@
 {
-  "name": "bugly-react-md-editor",
+  "name": "@tencent/react-md-editor",
   "version": "0.2.2",
   "description": "React Markdown Editor",
   "main": "lib/MDEditor.js",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "codemirror": "^5.18.2"
+    "codemirror": "^5.20.2"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
